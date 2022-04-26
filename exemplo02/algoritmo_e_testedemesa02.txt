@@ -1,0 +1,13 @@
+Algoritmo CalculaValorTotal
+   Entre com um valor para pecas
+   Entre com um valor para qtde
+   Faça VT = (qtde*pecas)
+   Mostre VT
+FimAlgoritmo
+
+
+Teste de Mesa 
+Peças   qtde   vt
+10      50     500
+5       20     100
+   
