@@ -1,0 +1,14 @@
+Algoritmo PagaComissão
+   Entre com um valor para preço_da_peca
+   Entre com um valor para quantidade_vendida
+   Faça preco_da_peca*quantidade_vendida e atribua a total
+   Depois encontre 5% do valor total e atribua a comissao  
+   Mostre comissão
+FimAlgoritmo
+
+Teste de Mesa
+
+preco_da_peca   quantidade_vendida   total   comissao
+2,5             200                  500     25
+3               150                  450     22,5    
+  
