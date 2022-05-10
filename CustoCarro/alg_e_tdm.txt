@@ -1,0 +1,15 @@
+Algoritmo CustoCarro
+   Entre com um valor para custo_fabrica
+   Faça custo_fabrica * 0,45 e adicione a impostos
+   Faça (custo_fabrica + impostos)*0.28 e adicione a distribuicao
+   Faça custo_fabrica + impostos + distribuicao e adicione a valor_carro
+   Mostre valor_carro
+FimAlgoritmo
+
+
+Teste de Mesa
+
+custo_fabrica   valor_carro
+25.000          46.400
+20.000          37.120
+30.000          55.680
