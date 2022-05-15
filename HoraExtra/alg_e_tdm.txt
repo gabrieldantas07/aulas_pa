@@ -1,0 +1,14 @@
+Algoritmo HoraExtra
+   Entre com um valor para horas e atribua a horas
+   Entre com um valor entre 0 e 59 para minutos e atribua a minutos
+   Entre com um valor para dinheiro por hora e atribua a dinheiro
+   Faça (minutos/60) + horas e atribua para convertido
+   Faça (convertido*dinheiro)*1,7 e atribua a salário
+   Mostre salário
+FimAlgorimo
+
+
+Teste de Mesa
+Horas   Minutos   Dinheiro   Salario
+10	45	  12         10.75
+12      30        7          12.5
