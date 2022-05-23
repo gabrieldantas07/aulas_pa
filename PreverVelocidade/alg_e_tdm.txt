@@ -1,0 +1,16 @@
+Agoritmo PreverVelocidade
+   Entre com um valor para quilometros percorridos e atribua a km
+   Entre com um valor para horas gastas e atribua a horas
+   Entre com um valor entre 0 e 59 para minutos atribua a minutos
+   Faça (minutos/60)+horas e atribua a conversao
+   Faça km/conversao e atribua a media
+   Mostre média
+FimAlgoritmo
+
+
+Teste de Mesa
+
+km   horas   minutos   conversao   media
+150  1	     13        1,22        122
+250  2	     10        2,16        115
+ 
